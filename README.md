@@ -1,6 +1,4 @@
-# TransaccionesEnJavaJDBC
-
-Transacciones En Java JDBC
+# Transacciones En Java JDBC
 
 Una transacción es un conjunto de operaciones sobre una base de datos que se deben ejecutar como una unidad.
 
